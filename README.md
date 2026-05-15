@@ -11,11 +11,13 @@
 
 ## 👥 Equipo de Trabajo
 
-**GRUPO**
-* 🧑‍💻 **Direni, Carlos** - DNI: 28.117.281
-* 👩‍💻 **Testa, Andrea Paola** - DNI: 25.442.630
-* 🧑‍💻 **García, Carlos** - DNI: 40.518.523
-* 🧑‍💻 **Moreno, Raúl** - DNI: 29.201.107
+## 👥 Equipo de Investigación & Desarrollo
+| Apellido y Nombre | GitHub |
+|:--- |:--- |:---:|
+| **TESTA**, Andrea Paola | [🔗 Perfil](https://github.com/PaoTes) |
+| **GARCIA**, Carlos | [🔗 Perfil](https://github.com) |
+| **MORENO**, Raúl | [🔗 Perfil](https://github.com) |
+| **DIRENI**, Carlos | [🔗 Perfil](https://github.com/Cdireni) |
 
 👩‍🏫 **Profesora:** Sol Figueroa
 ---
