@@ -1,11 +1,23 @@
-# 🌤️ Proyecto Integrador ABP: Predicción Climática para Estación Meteorológica
-**Instituto Superior Politécnico Córdoba (ISPC)** | Práctica Profesionalizante - 3er Año [4]
+# 🌤️ Proyecto Integrador: Predicción Climática para Estación Meteorológica
+**Instituto Superior Politécnico Córdoba (ISPC)** 
+
+**MÓDULO:** Práctica Profesionalizante II, Desarrollo de Sistemas de IA, Aprendizaje Automático  
+**EVIDENCIA NRO:** 2  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+## 👥 Equipo de Trabajo
+
+**GRUPO**
+* 🧑‍💻 **Direni, Carlos** - DNI: 28.117.281
+* 👩‍💻 **Testa, Andrea Paola** - DNI: 25.442.630
+* 🧑‍💻 **García, Carlos** - DNI: 40.518.523
+* 🧑‍💻 **Moreno, Raúl** - DNI: 29.201.107
+
+👩‍🏫 **Profesora:** Sol Figueroa
 ---
 
 ## 🎯 Comprensión del Proyecto (Proyect Understanding)
