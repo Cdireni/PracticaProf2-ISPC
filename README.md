@@ -1,4 +1,4 @@
-# 🌤️ Proyecto Integrador: Predicción Climática para Estación Meteorológica
+# 🌤️ Proyecto Integrador ABP: Predicción Climática para Estación Meteorológica
 **Instituto Superior Politécnico Córdoba (ISPC)** 
 
 **MÓDULO:** Práctica Profesionalizante II, Desarrollo de Sistemas de IA, Aprendizaje Automático  
