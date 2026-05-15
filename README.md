@@ -13,11 +13,11 @@
 
 ## 👥 Equipo de Investigación & Desarrollo
 | Apellido y Nombre | GitHub |
-|:--- |:--- |:---:|
-| **TESTA**, Andrea Paola | [🔗 Perfil] (https://github.com/PaoTes) |
-| **GARCIA**, Carlos | [🔗 Perfil] (https://github.com) |
-| **MORENO**, Raúl | [🔗 Perfil] (https://github.com) |
-| **DIRENI**, Carlos | [🔗 Perfil] (https://github.com/Cdireni) |
+|:--- |:---:|
+| **TESTA**, Andrea Paola | [🔗 Perfil](https://github.com/PaoTes) |
+| **GARCIA**, Carlos | [🔗 Perfil](https://github.com) |
+| **MORENO**, Raúl | [🔗 Perfil](https://github.com) |
+| **DIRENI**, Carlos | [🔗 Perfil](https://github.com/Cdireni) |
 
 👩‍🏫 **Profesora:** Sol Figueroa
 ---
